@@ -1,0 +1,13 @@
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\bin\Debug\CMSC 169 Project 1.exe.config
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\bin\Debug\CMSC 169 Project 1.exe
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\bin\Debug\CMSC 169 Project 1.pdb
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC 169 Project 1.csprojAssemblyReference.cache
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC_169_Project_1.Form1.resources
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC_169_Project_1.Properties.Resources.resources
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC 169 Project 1.csproj.GenerateResource.cache
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC 169 Project 1.csproj.CoreCompileInputs.cache
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC 169 Project 1.exe
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC 169 Project 1.pdb
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC_169_Project_1.Form2.resources
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC_169_Project_1.Form3.resources
+C:\Users\Pinkosh\source\repos\CMSC 169 Project 1\obj\Debug\CMSC_169_Project_1.Form4.resources
